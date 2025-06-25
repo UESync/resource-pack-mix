@@ -1,0 +1,44 @@
+{
+	"parent": "block/command_block",
+
+	"overrides": [
+                { "predicate": { "custom_model_data": 2323001}, "model": "block/chocolate_cake" },
+                { "predicate": { "custom_model_data": 2323002}, "model": "block/chocolate_cake_slice1" },
+                { "predicate": { "custom_model_data": 2323003}, "model": "block/chocolate_cake_slice2" },
+                { "predicate": { "custom_model_data": 2323004}, "model": "block/chocolate_cake_slice3" },
+                { "predicate": { "custom_model_data": 2323005}, "model": "block/chocolate_cake_slice4" },
+                { "predicate": { "custom_model_data": 2323006}, "model": "block/chocolate_cake_slice5" },
+                { "predicate": { "custom_model_data": 2323007}, "model": "block/chocolate_cake_slice6" },
+                { "predicate": { "custom_model_data": 2323011}, "model": "block/carrot_cake" },
+                { "predicate": { "custom_model_data": 2323012}, "model": "block/carrot_cake_slice1" },
+                { "predicate": { "custom_model_data": 2323013}, "model": "block/carrot_cake_slice2" },
+                { "predicate": { "custom_model_data": 2323014}, "model": "block/carrot_cake_slice3" },
+                { "predicate": { "custom_model_data": 2323015}, "model": "block/carrot_cake_slice4" },
+                { "predicate": { "custom_model_data": 2323016}, "model": "block/carrot_cake_slice5" },
+                { "predicate": { "custom_model_data": 2323017}, "model": "block/carrot_cake_slice6" },
+                { "predicate": { "custom_model_data": 2323021}, "model": "block/sweet_berry_cake" },
+                { "predicate": { "custom_model_data": 2323022}, "model": "block/sweet_berry_cake_slice1" },
+                { "predicate": { "custom_model_data": 2323023}, "model": "block/sweet_berry_cake_slice2" },
+                { "predicate": { "custom_model_data": 2323024}, "model": "block/sweet_berry_cake_slice3" },
+                { "predicate": { "custom_model_data": 2323025}, "model": "block/sweet_berry_cake_slice4" },
+                { "predicate": { "custom_model_data": 2323026}, "model": "block/sweet_berry_cake_slice5" },
+                { "predicate": { "custom_model_data": 2323027}, "model": "block/sweet_berry_cake_slice6" },
+                { "predicate": { "custom_model_data": 2323031}, "model": "block/red_velvet_cake" },
+                { "predicate": { "custom_model_data": 2323032}, "model": "block/red_velvet_cake_slice1" },
+                { "predicate": { "custom_model_data": 2323033}, "model": "block/red_velvet_cake_slice2" },
+                { "predicate": { "custom_model_data": 2323034}, "model": "block/red_velvet_cake_slice3" },
+                { "predicate": { "custom_model_data": 2323035}, "model": "block/red_velvet_cake_slice4" },
+                { "predicate": { "custom_model_data": 2323036}, "model": "block/red_velvet_cake_slice5" },
+                { "predicate": { "custom_model_data": 2323037}, "model": "block/red_velvet_cake_slice6" },
+                { "predicate": { "custom_model_data": 2323041}, "model": "block/cheesecake" },
+                { "predicate": { "custom_model_data": 2323042}, "model": "block/cheesecake_slice1" },
+                { "predicate": { "custom_model_data": 2323043}, "model": "block/cheesecake_slice2" },
+                { "predicate": { "custom_model_data": 2323044}, "model": "block/cheesecake_slice3" },
+                { "predicate": { "custom_model_data": 2323045}, "model": "block/cheesecake_slice4" },
+                { "predicate": { "custom_model_data": 2323046}, "model": "block/cheesecake_slice5" },
+                { "predicate": { "custom_model_data": 2323047}, "model": "block/cheesecake_slice6" }
+
+
+	]
+
+}

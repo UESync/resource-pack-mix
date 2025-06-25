@@ -1,0 +1,19 @@
+{
+  "model": {
+    "type": "select",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "minecraft:item/chicken"
+    },
+    "cases": [
+      {
+        "when": "lava_cooked",
+        "model": {
+          "type": "model",
+          "model": "lava_chicken_movie:item/lava_chicken"
+        }
+      }
+    ]
+  }
+}

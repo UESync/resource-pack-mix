@@ -1,0 +1,49 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/potion_overlay",
+        "layer1": "item/potion"
+    },
+
+    "overrides": [
+
+        {"predicate":{"custom_model_data":2337001},"model": "item/lemonade"},
+        {"predicate":{"custom_model_data":2337002},"model": "item/orange_juice"},
+        {"predicate":{"custom_model_data":2337003},"model": "item/sweet_berry_banana_smoothie"},
+        {"predicate":{"custom_model_data":2337004},"model": "item/apple_juice"},
+        {"predicate":{"custom_model_data":2337005},"model": "item/hot_chocolate"},
+        {"predicate":{"custom_model_data":2337006},"model": "item/fruit_punch"},
+        {"predicate":{"custom_model_data":2337007},"model": "item/coffee"},
+        {"predicate":{"custom_model_data":2337008},"model": "item/melon_juice"},
+        {"predicate":{"custom_model_data":2337009},"model": "item/glow_berry_delight"},
+        {"predicate":{"custom_model_data":2337010},"model": "item/mocha"},
+        {"predicate":{"custom_model_data":2337011},"model": "item/cappuccino"},
+        {"predicate":{"custom_model_data":2337012},"model": "item/mango_smoothie"},
+        {"predicate":{"custom_model_data":2337013},"model": "item/tea"},
+        {"predicate":{"custom_model_data":2337014},"model": "item/sweet_tea"},
+        {"predicate":{"custom_model_data":2337015},"model": "item/boba_milk_tea"},
+        {"predicate":{"custom_model_data":2337016},"model": "item/sweet_berry_bubble_tea"},
+        {"predicate":{"custom_model_data":2337017},"model": "item/mango_bubble_tea"},
+        {"predicate":{"custom_model_data":2337018},"model": "item/glow_berry_bubble_tea"},
+        {"predicate":{"custom_model_data":2337019},"model": "item/lemon_bubble_tea"},
+        {"predicate":{"custom_model_data":2337020},"model": "item/chocolate_bubble_tea"},
+        {"predicate":{"custom_model_data":2337021},"model": "item/chorus_fruit_bubble_tea"},
+        {"predicate":{"custom_model_data":2337022},"model": "item/sweet_berry_lemonade"},
+        {"predicate":{"custom_model_data":2337023},"model": "item/mango_lemonade"},
+        {"predicate":{"custom_model_data":2337024},"model": "item/chocolate_milk"},
+        {"predicate":{"custom_model_data":2337025},"model": "item/sweet_berry_milk"},
+        {"predicate":{"custom_model_data":2337026},"model": "item/banana_milk"},
+        {"predicate":{"custom_model_data":2337027},"model": "item/citron_tea"},
+        {"predicate":{"custom_model_data":2337028},"model": "item/vanilla_milkshake"},
+        {"predicate":{"custom_model_data":2337029},"model": "item/chocolate_milkshake"},
+        {"predicate":{"custom_model_data":2337030},"model": "item/sweet_berry_milkshake"},
+        {"predicate":{"custom_model_data":2337031},"model": "item/banana_milkshake"},
+        {"predicate":{"custom_model_data":2337032},"model": "item/lassi"},
+        {"predicate":{"custom_model_data":2337033},"model": "item/mango_lassi"},
+        {"predicate":{"custom_model_data":2337034},"model": "item/beer"},
+        {"predicate":{"custom_model_data":2337035},"model": "item/wine"},
+        {"predicate":{"custom_model_data":2337036},"model": "item/root_beer"},
+        {"predicate":{"custom_model_data":2337037},"model": "item/sikhye"}
+
+    ]
+}

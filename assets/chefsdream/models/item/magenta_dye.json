@@ -1,0 +1,30 @@
+{
+
+    "parent": "item/generated",
+
+    "textures": {
+
+        "layer0": "item/magenta_dye"
+
+    },
+
+    "overrides": [
+
+        {"predicate":{"custom_model_data":2300001},"model": "item/flour"},
+        {"predicate":{"custom_model_data":2300002},"model": "item/noodles"},
+        {"predicate":{"custom_model_data":2300003},"model": "item/dough"},
+        {"predicate":{"custom_model_data":2300004},"model": "item/curry_powder"},
+        {"predicate":{"custom_model_data":2300005},"model": "item/salt"},
+        {"predicate":{"custom_model_data":2300006},"model": "item/rice"},
+        {"predicate":{"custom_model_data":2300007},"model": "item/ketchup"},
+        {"predicate":{"custom_model_data":2300008},"model": "item/mustard_sauce"},
+        {"predicate":{"custom_model_data":2300009},"model": "item/cooking_oil"},
+        {"predicate":{"custom_model_data":2300010},"model": "item/paprika"},
+        {"predicate":{"custom_model_data":2300011},"model": "item/cream_cheese"},
+        {"predicate":{"custom_model_data":2300012},"model": "item/tofu"},
+        {"predicate":{"custom_model_data":2300013},"model": "item/soy_sauce"},
+        {"predicate":{"custom_model_data":2300014},"model": "item/gochujang"},
+        {"predicate":{"custom_model_data":2300015},"model": "item/boba"}
+    ]
+
+}

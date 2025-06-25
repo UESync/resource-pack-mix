@@ -1,0 +1,7 @@
+{
+
+    "parent": "item/generated",
+    
+    "textures": {"layer0": "chefsdream:custom/kimchi_cheese_sandwich"}
+    
+}
