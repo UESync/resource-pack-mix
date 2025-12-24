@@ -11,7 +11,7 @@
         "when": "lava_cooked",
         "model": {
           "type": "model",
-          "model": "lava_chicken_movie:item/lava_chicken"
+          "model": "addons:item/lava_chicken"
         }
       }
     ]

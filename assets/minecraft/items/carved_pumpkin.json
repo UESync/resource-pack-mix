@@ -12,7 +12,7 @@
         "when": "White Cat",
         "model": {
           "type": "model",
-          "model": "cat_costumes:block/collar_and_white_ears"
+          "model": "outfits:block/collar_and_white_ears"
         }
       }
     ]

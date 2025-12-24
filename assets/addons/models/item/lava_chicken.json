@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "lava_chicken_movie:item/lava_chicken"
+    "layer0": "addons:item/lava_chicken"
   }
 }

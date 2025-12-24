@@ -1,0 +1,5 @@
+{
+  "entity.lava_chicken.eat": {
+    "sounds": [ "addons:entity.lava_chicken.eat" ]
+  }
+}
