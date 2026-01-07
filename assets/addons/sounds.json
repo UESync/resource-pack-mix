@@ -1,5 +1,11 @@
 {
   "entity.lava_chicken.eat": {
     "sounds": [ "addons:entity.lava_chicken.eat" ]
+  },
+  "entity.buff.use": {
+    "sounds": [ "addons:entity.buff.use" ]
+  },
+  "entity.potions.drink": {
+    "sounds": [ "addons:entity.potions.drink" ]
   }
 }

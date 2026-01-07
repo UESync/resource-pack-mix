@@ -1,0 +1,54 @@
+{
+  "model": {
+    "type": "select",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "minecraft:item/pumpkin_pie"
+    },
+    "cases": [
+      {
+        "when": "medical_kit_made",
+        "model": {
+          "type": "model",
+          "model": "addons:item/medical_kit"
+        }
+      },
+      {
+        "when": "fly_boots_made",
+        "model": {
+          "type": "model",
+          "model": "addons:item/fly_boots"
+        }
+      },
+      {
+        "when": "milk_potion_made",
+        "model": {
+          "type": "model",
+          "model": "addons:item/milk_potion"
+        }
+      },
+      {
+        "when": "strength_potion_made",
+        "model": {
+          "type": "model",
+          "model": "addons:item/strength_potion"
+        }
+      },
+      {
+        "when": "healing_potion_made",
+        "model": {
+          "type": "model",
+          "model": "addons:item/healing_potion"
+        }
+      },
+      {
+        "when": "magic_shield_made",
+        "model": {
+          "type": "model",
+          "model": "addons:item/magic_shield"
+        }
+      }
+    ]
+  }
+}
