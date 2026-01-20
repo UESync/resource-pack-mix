@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "addons:item/health_token"
+    "layer0": "addons:item/energy_drink"
   }
 }

@@ -1,0 +1,19 @@
+{
+  "model": {
+    "type": "select",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "minecraft:item/bread"
+    },
+    "cases": [
+      {
+        "when": "steamed_bun_made",
+        "model": {
+          "type": "model",
+          "model": "addons:item/steamed_bun"
+        }
+      }
+    ]
+  }
+}

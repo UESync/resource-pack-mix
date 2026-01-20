@@ -48,6 +48,34 @@
           "type": "model",
           "model": "addons:item/magic_shield"
         }
+      },
+      {
+        "when": "antidote_made",
+        "model": {
+          "type": "model",
+          "model": "addons:item/antidote"
+        }
+      },
+      {
+        "when": "energy_drink_made",
+        "model": {
+          "type": "model",
+          "model": "addons:item/energy_drink"
+        }
+      },
+      {
+        "when": "ramune_made",
+        "model": {
+          "type": "model",
+          "model": "addons:item/ramune"
+        }
+      },
+      {
+        "when": "shaved_ice_made",
+        "model": {
+          "type": "model",
+          "model": "addons:item/shaved_ice"
+        }
       }
     ]
   }
