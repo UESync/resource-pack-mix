@@ -1,0 +1,75 @@
+{
+  "model": {
+    "type": "select",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "minecraft:item/honey_bottle"
+    },
+    "cases": [
+      {
+        "when": "cocktail_fire_resistance",
+        "model": {
+          "type": "model",
+          "model": "addons:item/cocktail_fire_resistance"
+        }
+      },
+      {
+        "when": "cocktail_jump_boost",
+        "model": {
+          "type": "model",
+          "model": "addons:item/cocktail_jump_boost"
+        }
+      },
+      {
+        "when": "cocktail_luck",
+        "model": {
+          "type": "model",
+          "model": "addons:item/cocktail_luck"
+        }
+      },
+      {
+        "when": "cocktail_night_vision",
+        "model": {
+          "type": "model",
+          "model": "addons:item/cocktail_night_vision"
+        }
+      },
+      {
+        "when": "cocktail_regeneration",
+        "model": {
+          "type": "model",
+          "model": "addons:item/cocktail_regeneration"
+        }
+      },
+      {
+        "when": "cocktail_slow_falling",
+        "model": {
+          "type": "model",
+          "model": "addons:item/cocktail_slow_falling"
+        }
+      },
+      {
+        "when": "cocktail_speed",
+        "model": {
+          "type": "model",
+          "model": "addons:item/cocktail_speed"
+        }
+      },
+      {
+        "when": "cocktail_strength",
+        "model": {
+          "type": "model",
+          "model": "addons:item/cocktail_strength"
+        }
+      },
+      {
+        "when": "cocktail_water_breathing",
+        "model": {
+          "type": "model",
+          "model": "addons:item/cocktail_water_breathing"
+        }
+      }
+    ]
+  }
+}
